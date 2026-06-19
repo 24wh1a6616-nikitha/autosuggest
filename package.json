@@ -17,7 +17,8 @@
   "bugs": {
     "url": "https://github.com/24wh1a6616-nikitha/autosuggest/issues"
   },
-  "homepage": "https://github.com/24wh1a6616-nikitha/autosuggest#readme"
+  "homepage": "https://github.com/24wh1a6616-nikitha/autosuggest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
-
-
