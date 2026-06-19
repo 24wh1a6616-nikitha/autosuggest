@@ -35,3 +35,11 @@ border: 4px;
 body{
     margin: 0;
 }
+.card{
+    border:2px solid black;;
+
+}
+.card img{
+    width:150px;
+   align-items: center;
+}
