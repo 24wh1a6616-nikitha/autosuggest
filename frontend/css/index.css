@@ -1,5 +1,7 @@
 h1{
-    color:red;    
+    
+    color:black; 
+    padding: 30px;  
 }
 #heading2{
     color:blue;
@@ -33,7 +35,8 @@ border: 4px;
     color: brown;
 }
 body{
-    margin: 0;
+    margin:0;
+    
 }
 .card{
     border:2px solid black;;
@@ -45,4 +48,41 @@ body{
 }
 .card button{
     margin-button: 20px;
+}
+.gear{
+    position:fixed;
+    top: 50;
+    left: 20px;
+    size: 60px;
+}
+.pill{
+    position:fixed;
+    top: 20px;
+    right: 50px;
+    size: 150px;
+}
+.mar{
+
+    text-align: center; 
+    
+}
+.searchbar{
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lens{
+    position:relative;
+    /*
+    top: 20px;or bottom: 20px; or left: 20px; or right: 20px;
+    */
+    left:30px;
+}
+.logo{
+    color:purple;
+}
+.par{
+    padding: 20px;
 }
