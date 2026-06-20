@@ -67,22 +67,24 @@ body{
     
 }
 .searchbar{
-    border-radius: 20px;
-    padding-left: 40px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    border-radius: 50px;
+    padding-left: 60px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
 }
 .lens{
     position:relative;
     /*
     top: 20px;or bottom: 20px; or left: 20px; or right: 20px;
     */
-    left:30px;
+    left:40px;
 }
 .logo{
     color:purple;
 }
 .par{
-    padding: 20px;
+    padding: 30px;
 }
